@@ -1,2 +1,2 @@
 # hello-world
-Getting started so I can join in an play
+Getting started so I can join in and play
